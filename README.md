@@ -1,1 +1,1 @@
-# data_gathering_working-web-scraping
+Web scraping enables collecting data from across the Internet & can be used to look for and collect a specific type of data based on the specific need. This time we will be using Python Library "BeautifoolSoup" & "Requests" to extract data from internet.
